@@ -249,8 +249,8 @@ if (isset($_SERVER['REQUEST_METHOD']) && strtolower($_SERVER['REQUEST_METHOD']) 
 		<div class="front-form">
 			<div class="layout">
 				<header>
-					<h1 class="title">Ransomware</h1>
-					<p>Made by Ivan Šincek</p>
+					<h1 class="title">Ransomware!</h1>
+					<p>Made by LulNazi</p>
 				</header>
 				<form method="post" action="<?php echo './' . pathinfo($_SERVER['SCRIPT_FILENAME'], PATHINFO_BASENAME); ?>">
 					<label for="key">Encryption Key</label>
